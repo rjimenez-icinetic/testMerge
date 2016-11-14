@@ -66,5 +66,4 @@ For more information about third-party libraries licenses used by IBM Mobile UI 
 * [SDWebImage](https://github.com/rs/SDWebImage)
 
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
-* [Charts](https://github.com/danielgindi/Charts)
 

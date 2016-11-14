@@ -8,7 +8,6 @@ target 'sec' do
     pod 'SDWebImage', '~> 3.8.0'
     pod 'SlideMenuControllerSwift', '~> 2.3.0'
     pod 'SVProgressHUD', '~> 2.0.0'
-    pod 'Charts', '~> 2.3.0'
 		
 end
 

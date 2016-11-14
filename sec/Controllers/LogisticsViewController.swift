@@ -30,7 +30,6 @@ class LogisticsViewController: CollectionViewController<MenuItem>, UICollectionV
 			MenuItem(text: "CLIENTS", action: NavigationAction<ClientsViewController>(rootViewController: self), image: "CLIENTS56782.png"),
 			MenuItem(text: "VEHICLES", action: NavigationAction<VehiclesViewController>(rootViewController: self), image: "VEHICLES748283.png"),
 			MenuItem(text: "SHIPMENTS", action: NavigationAction<ShipmentsViewController>(rootViewController: self), image: "SHIPMENTS40197.png"),
-			MenuItem(text: "DASHBOARD", action: NavigationAction<StatisticsViewController>(rootViewController: self), image: "DASHBOARD132758.png"),
 	
         ]
        
